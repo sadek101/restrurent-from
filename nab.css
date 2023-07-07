@@ -1,0 +1,20 @@
+nav > ul{
+    display: flex;
+}
+nav,li{
+    list-style: none;
+    margin-right: 10px;
+    padding: 5x;
+}
+nav ,li,a{
+    color: black;
+    text-decoration:none;}
+    
+nav li:hover{
+    background-color: rgb(168, 144, 189);
+    
+}
+/*  custom menu  */
+nav li .dropdown{
+    display: none;
+    
